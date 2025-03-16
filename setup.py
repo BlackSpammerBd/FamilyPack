@@ -6,7 +6,6 @@ setup(
     packages=find_packages(),
     install_requires=[
         'python-telegram-bot',
-        'sqlite3',
     ],
     entry_points={
         'console_scripts': [
